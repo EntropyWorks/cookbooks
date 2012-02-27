@@ -1,0 +1,3 @@
+[submodule "collectd"]
+	path = collectd
+	url = /Users/yazz/collectd
